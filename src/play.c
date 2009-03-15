@@ -8,6 +8,7 @@
 
 #define _GNU_SOURCE
 
+#include <config.h>
 #include <mad.h>
 
 #include <stdio.h>
